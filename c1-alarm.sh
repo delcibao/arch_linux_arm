@@ -1,7 +1,7 @@
 #!/usr/bin/bash -vx
 
 DEVICE=/dev/sdi
-# FILE=/home/marcos/Downloads/ArchLinuxARM-rpi-latest.tar.gz 
+# FILE=/home/user/Downloads/ArchLinuxARM-rpi-latest.tar.gz 
 FILE_URL=http://archlinuxarm.org/os/ArchLinuxARM-odroid-c1-latest.tar.gz
 FILE=ArchLinuxARM-odroid-c1-latest.tar.gz
 
